@@ -4,3 +4,6 @@ I have made this simple project to have a basic understanding of html tags and i
 
 > [!CAUTION]
 > Users must run this project on **chrome** only in order to see the css animations utilized in this project.
+
+
+***credit to the owners of photos I have used in this project***
